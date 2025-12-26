@@ -1,0 +1,66 @@
+body{
+    font-family:'poppins',sans-serif;
+    background-color:black;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ body{
+    background-image:url(download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+ }
+h1{
+    color: orangered;
+    text-align: center;
+}
+u{
+    color: orangered;
+}
+h2{
+    text-align: center;
+    color: orange;
+    margin-top: 20px;
+}
+.sports{
+    
+    color: black;
+    margin-right:88% ;
+}
+.race{
+    color: black;
+    margin-right:84% ;
+}
+.LAN{
+    color: black;
+    margin-left: 50px;
+}
+p{
+    color: black;
+    display: inline-block;
+    height: 20px;
+    width: 500px;
+    padding-top: 20PX;
+    margin-left: 50px;
+}
+button{
+    background-color: black;
+    color: white;
+    display: block;
+    margin-left: 50px;
+    margin-top: 50PX;
+    padding-TOP: 15PX;
+    padding-bottom: 15PX;
+    padding-left:50PX;
+    padding-right:50PX;
+}
+h5{
+    display: inline-block;
+    height: 20px;
+    width: 59px;
+    margin-left: 8%;
+    margin-top: 20px;
+}

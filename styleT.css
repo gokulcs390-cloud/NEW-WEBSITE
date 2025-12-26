@@ -1,0 +1,75 @@
+body{
+    font-family:'poppins',sans-serif;
+    background-color:white;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    color:orangered;
+    font-size: 50px;
+    display: inline-block;
+    width:400px;
+    height:100px;
+    margin-left: 20px;
+   
+}
+li {
+    color: black;
+    display: inline;
+    cursor: pointer;
+    padding-left: 30px;
+    text-align: end;
+
+}
+
+ul {
+    display: inline;
+    margin-left:30%;
+    margin-top:20PX;
+}
+.title{
+    background-color: black;
+    
+}
+H2{
+    padding-top: 200PX;
+    margin-left: 10%;
+    color: white;
+    display: inline-block;
+    width: 50%;
+    height:10% ;
+}
+.ABOUT{
+    padding-bottom: 10PX;
+    margin-left: 10%;
+    color: white;
+}
+.title img{
+    border-color: blueviolet;
+    border-style:solid;
+    border-width:4px;
+    margin-top: 100px;
+}
+.gokul{
+      display: inline;
+     
+     
+}
+.gokul h1,h3{
+    color: black;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+.gokul h3{
+    margin-top:60px;
+    margin-bottom: 20px;
+    color:orange;
+    display: block;
+    height: 30px;
+    width: 200px;
+}
+.gokul img{
+    margin-left: 40%;
+}
